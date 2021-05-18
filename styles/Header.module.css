@@ -15,7 +15,7 @@
 }
 
 .header a:hover {
-  color: #000;
+  color: rgb(11, 105, 39);
 }
 .header ul {
   display: flex;
@@ -32,6 +32,10 @@
 
 .logo a {
   color: red;
+}
+
+.logo a:hover {
+  color: #000;
 }
 
 @media (max-width: 768px) {
